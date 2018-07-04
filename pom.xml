@@ -53,10 +53,9 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
-			<groupId>com.bstek.ureport</groupId>
-			<artifactId>ureport2-console</artifactId>
-			<version>2.2.5-SNAPSHOT</version>
-		</dependency>
+            <groupId>com.bstek.ureport</groupId>
+            <artifactId>ureport2-console</artifactId>
+            <version>2.2.8</version>
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
